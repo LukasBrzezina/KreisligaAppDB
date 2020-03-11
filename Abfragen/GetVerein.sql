@@ -1,0 +1,1 @@
+SELECT * FROM `tbl_verein` WHERE Liga_ID = 1
